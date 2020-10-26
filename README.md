@@ -11,7 +11,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 # Project Motivation <a name='Motivation'></a>
 
-For this project the interactions that users have with articles on the IBM Watson Studio platform was analyzed and create recommendation engine to suggest new articles to them. Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
+For this project the interactions that users have with articles on the IBM Watson Studio platform was analyzed and recommendation engine was created to suggest new articles to them. Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
 
 
 # File Descriptions <a name="Descriptions"></a>
